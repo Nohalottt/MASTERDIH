@@ -1,0 +1,39 @@
+.center{
+    padding: 10%;
+    padding-top: 0%;
+}
+.centerC{
+    padding: 10%;
+    padding-top: 2%;
+
+}
+.diCenter{
+    text-align:center;
+    margin-left: 30%;
+}
+.centCC{
+    margin-left:0%;
+    margin-right: 100%;
+    justify-content: center;
+}
+.cch1{
+    margin-top: 1%;
+}
+.image{
+    padding-top: 5%;
+}
+.col{
+    background-color: white;
+}
+.form-control{
+    border-radius: 90px;
+}
+.hello{
+    margin-top: 5%;
+}
+.tit{
+    margin-top: 1%;
+}
+.mar{
+    margin-top: 5%;
+}
